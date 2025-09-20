@@ -236,6 +236,7 @@ button::-moz-focus-inner,
   padding: 0;
   border-style: none; }
 
+button{ background-color:#1b3480;}
 input[type="radio"],
 input[type="checkbox"] {
   -webkit-box-sizing: border-box;
